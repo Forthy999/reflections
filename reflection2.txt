@@ -1,1 +1,11 @@
 This is bloody complicated - but hopefully it's all going to make sense soon!
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+I honestly have no clue how this will be of any benefit in practical coding right now, maybe I'll answer this later in the lesson.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+By only adding the files that hold the logical change to the commit
+
+<change added to test commit>
