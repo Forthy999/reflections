@@ -20,6 +20,10 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 It would be harder in that each part of the project would have to be worked on by one individual at a time.  You would have to assign tasks to people, and wait for them to return wiht the code before you could move on with the next bit.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+new feaures or when straying from the master path for experimentation.
+
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 Being as upt to date as possble prevents merge conflicts down the road.
