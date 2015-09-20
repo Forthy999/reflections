@@ -16,6 +16,10 @@ Branches are deifferent versions of the same things all within the same reposito
 
 I would use each one for its intended function.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+It would be harder in that each part of the project would have to be worked on by one individual at a time.  You would have to assign tasks to people, and wait for them to return wiht the code before you could move on with the next bit.
+
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 Being as upt to date as possble prevents merge conflicts down the road.
