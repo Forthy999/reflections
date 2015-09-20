@@ -1,1 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
 
+So that I can access the work from multiple points and devices, and so other people can work on it without me having to stay online or set up an VPS link for them to myown devices.
