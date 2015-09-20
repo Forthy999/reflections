@@ -22,7 +22,7 @@ It would be harder in that each part of the project would have to be worked on b
 
 When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
 
-new feaures or when straying from the master path for experimentation.
+new feaures or when straying from the master path for experimentatinon.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
